@@ -5,8 +5,6 @@
  * @package App\Controller
  */
 
-namespace App\Controller;
-
 class Test
 {
     public function __construct()
